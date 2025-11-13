@@ -1,1 +1,14 @@
-a634f0a4-7c3d-4686-9e85-78a12ffa62e3,7D
+# ملف ترخيص WormGPT - Crax RAT Port Dragon Mobile
+# التنسيق: KEY,PERIOD
+# PERIOD: عدد + H/D/M/Y أو LT (غير محدود)
+
+ABC123,LT
+WORMGPT,LT
+TEST789,7D
+BETA456,30D
+PREMIUM,1Y
+MONTHLY,1M
+WEEKLY,7D
+HOUR4,4H
+TRIAL24,24H
+EXPIREDKEY,1H  # هذا المفتاح منتهي بعد ساعة من الإنشاء — للاختبار فقط
